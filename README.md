@@ -31,7 +31,7 @@ R scripts utilised for the analysis of Tasmanian devil genomic analyses used in 
 - draw Venn diagrams
 - draw PDGFRA, PDGFRB and B2M Campbellgrams
 
-# Figure 5 (soon available as a shiny app)
+# Figure 5 (shortly also as a shiny app)
 - integrate drug screening IC50 data from DFT1, DFT2 and human cancer cell lines (https://www.cancerrxgene.org/, Yang et al., 2014)
 - process samples
 - draw hierarchical clustering map
