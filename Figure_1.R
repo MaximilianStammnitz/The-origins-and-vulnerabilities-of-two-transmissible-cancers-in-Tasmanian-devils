@@ -1,6 +1,6 @@
 # Figure 1: Origins of DFT1 and DFT2
 
-# Max Stammnitz, Transmissible Cancer Group, 
+# Max Stammnitz, Transmissible Cancer Group, University of Cambridge, UK
 # mrs72@cam.ac.uk
 
 # Please cite:
